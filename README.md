@@ -23,8 +23,7 @@ This dashboard involves the development of an HR Analytics Dashboard for a compa
 
 ## How to Use the Dashboard
 1. **Interactive Filters**: You can filter the data by job title, gender, and other dimensions to get specific insights.
-2. **Dynamic Insights**: The dashboard updates in real-time based on filter selections, allowing for targeted analysis.
-3. **Drill-Down Features**: Some visualizations allow drill-down to more granular data, such as specific departments or roles.
+2. **Dynamic Insights**: The dashboard updates in real time based on filter selections, allowing for targeted analysis.
 
 ## Conclusion
 This dashboard provides a comprehensive overview of the HR metrics and can be used for workforce planning, salary analysis, and tracking hiring trends. It enables management to make informed decisions and identify areas for improvement in employee engagement and retention.
